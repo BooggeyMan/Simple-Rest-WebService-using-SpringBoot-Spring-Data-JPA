@@ -8,5 +8,5 @@ Steps to Use This Rest API-
 I implemented basic CRUD operations using Spring Boot JPA and Spring Derby Data(Testing DataBase for Developement Application).
 
 
-NOTE-This Rest API is First Generation Beginner Learning Purpose not any ADVANCE Purpose.
+NOTE-This Rest API is First Generation Beginner Learning Purpose.
 For ADVANCE WebServices -Stay with US or MAILTO-viveksingh_ar@srmuniv.edu.in
