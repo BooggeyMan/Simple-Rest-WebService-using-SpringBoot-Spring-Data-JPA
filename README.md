@@ -9,4 +9,4 @@ I implemented basic CRUD operations using Spring Boot JPA and Spring Derby Data(
 
 
 NOTE-This Rest API is First Generation Beginner Learning Purpose.
-For ADVANCE WebServices -Stay with US or MAILTO-viveksingh_ar@srmuniv.edu.in
+Stay with me or MAILTO-viveksingh_ar@srmuniv.edu.in
